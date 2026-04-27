@@ -123,10 +123,10 @@ public class FantasyCalculator {
             }
 
             for (int i = 0; i < g; i++) {
-                r = r + 6;
+                r = r + 5;
             }
 
-            r = r + (a * 5);
+            r = r + (a * 6);
 
             if (y == true) r = r - 3;
             if (red == true) r = r - 5;
